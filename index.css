@@ -1,0 +1,24 @@
+body{
+    color: rgb(3, 3, 3);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(file:///C:/Users/bethi/Downloads/WhatsApp%20Image%202024-04-30%20at%2018.44.42.jpeg);
+    }
+.imagens{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-around;
+    gap: 20px;
+}
+.titulo{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.descricao{
+    color: rgb(255, 255, 255);
+    font-weight: 10;
+    font-size: 20px;
+
+}
